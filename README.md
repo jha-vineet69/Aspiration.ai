@@ -1,6 +1,8 @@
 # Aspiration.ai
 Machine Learning Internship in Finance at [Aspiration.ai](https://www.careerlauncher.com/machine-learning/internship/)
 
+- Data Science has been incremental in providing powerful insights ( which people didn't even know existed ) and helped massively increase the efficiency, helping everyone from a scalp trader to a long term debt investor. Accurate predictions, unbiased analysis, powerful tools that run through millions of rows of data in the blink of an eye have transformed the industry in ways we could've never imagined.
+
 - Investment Bankers. CA's. Hedge Fund / Portfolio Managers. Forex traders. Commodities Analysts.
 These have been historically considered to be among the most coveted professions of all time. Yet, if one fails to keep up with the demands of the day, one would find one's skills to be obsolete in this era of data analysis.
 
